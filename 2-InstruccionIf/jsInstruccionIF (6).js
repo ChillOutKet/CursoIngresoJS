@@ -11,7 +11,7 @@ else if (edad<=17){
     alert("es adolescente");
 
 } 
-else {
+else if (edad>=18){
     alert("es mayor de edad")
 }
 
