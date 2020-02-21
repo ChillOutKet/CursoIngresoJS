@@ -8,7 +8,7 @@ if (edad<13) {
     alert("es un niño")
 }
 else if (edad<=17){
-    alert("es adolecente");
+    alert("es adolescente");
 
 } 
 else {
