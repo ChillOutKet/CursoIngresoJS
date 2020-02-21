@@ -6,7 +6,7 @@ function mostrar()
 if (nota>=9){
 	alert(nota+" excelente");
 }
-else if (nota>4){
+else if (nota>=4){
 	alert(nota+" aprobó");
 }
 else {
